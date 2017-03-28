@@ -1,0 +1,2 @@
+# config
+configuraciones en linux
