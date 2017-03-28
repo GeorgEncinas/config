@@ -4,9 +4,13 @@
 2 ejecuta $ source ~/.bashrc
 
 # Como usar?
-proxyOn
+$ proxyOn
+
 Server: [ip server] 
+
 Port: [port number]
+
+$ proxyOn [server ip]:[port number]
 
 # como quitar el proxy
 proxyOff
