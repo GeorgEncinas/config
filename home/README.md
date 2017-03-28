@@ -4,6 +4,8 @@
 2 ejecuta $ source ~/.bashrc
 
 # Como usar?
+cualquiera de las dos formas puedes usar
+
 $ proxyOn
 
 Server: [ip server] 
