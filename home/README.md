@@ -6,13 +6,13 @@
 # Como usar?
 cualquiera de las dos formas puedes usar
 
-$ proxyOn
+$ proxy-on
 
 Server: [ip server] 
 
 Port: [port number]
 
-$ proxyOn [server ip]:[port number]
+$ proxy-on [server ip]:[port number]
 
 # como quitar el proxy
-proxyOff
+proxy-off
