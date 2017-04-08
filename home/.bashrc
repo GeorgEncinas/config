@@ -1,4 +1,4 @@
-function proxyOn() {
+function proxy-on() {
     export no_proxy="localhost,127.0.0.1,localaddress,.umss.edu.bo"
     if (( $# > 0 )); then
         valid=$(echo $@ | sed -n 's/\([0-9]\{1,3\}.\)\{4\}:\([0-9]\+\)/&/p')
@@ -26,7 +26,7 @@ function proxyOn() {
     export RSYNC_PROXY=$http_proxy
 }
 
-function proxyOff(){
+function proxy-off(){
     unset http_proxy
     unset https_proxy
     unset ftp_proxy
