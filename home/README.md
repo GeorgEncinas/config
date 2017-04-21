@@ -16,13 +16,13 @@ Agrega esta linea justo debajo
 # Como usar?
 cualquiera de las dos formas puedes usar
 
-$ proxy-on
+> $ proxy-on
 
-Server: [ip server] 
+>> Server: [ip server] 
 
-Port: [port number]
+>> Port: [port number]
 
-$ proxy-on [server ip]:[port number]
+> $ proxy-on [server ip]:[port number]
 
 # como quitar el proxy
 proxy-off
