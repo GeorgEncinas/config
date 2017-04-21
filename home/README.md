@@ -25,4 +25,4 @@ cualquiera de las dos formas puedes usar
 > $ proxy-on [server ip]:[port number]
 
 # como quitar el proxy
-> proxy-off
+> $ proxy-off
